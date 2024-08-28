@@ -1,0 +1,85 @@
+{
+  "menu": [
+    {
+      "home": "Obras",
+      "contact": "Contacto",
+      "lang": "es",
+      "search": "Buscar...",
+      "noResults": "No hay resultados"
+    }
+  ],
+  "catalog": [
+    {
+      "id": "wall-fish",
+      "name": "Pez de pared",
+      "variants": [
+        {
+          "size": "S",
+          "width": 5,
+          "height": 10,
+          "depth": 2,
+          "price": 19.99
+        },
+        {
+          "size": "M",
+          "width": 18,
+          "height": 24,
+          "depth": 2,
+          "price": 29.99
+        }
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada consequat enim vitae aliquet. Aenean molestie felis non sapien volutpat, in elementum est rhoncus.",
+      "tags": ["peces", "decoración de pared"],
+      "images": [
+        "/imgs/placeholder.png",
+        "/imgs/placeholder.png",
+        "/imgs/placeholder.png"
+      ]
+    },
+    {
+      "id": "wall-cross",
+      "name": "Cruz de pared",
+      "width": 18,
+      "height": 24,
+      "depth": 2,
+      "price": 19.99,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada consequat enim vitae aliquet. Aenean molestie felis non sapien volutpat, in elementum est rhoncus.",
+      "tags": ["cruces", "decoración de pared"],
+      "images": [
+        "/imgs/placeholder.png",
+        "/imgs/placeholder.png",
+        "/imgs/placeholder.png"
+      ]
+    },
+    {
+      "id": "nativity",
+      "name": "Misterio",
+      "width": 18,
+      "height": 24,
+      "depth": 2,
+      "price": 39.99,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada consequat enim vitae aliquet. Aenean molestie felis non sapien volutpat, in elementum est rhoncus.",
+      "tags": ["belenes", "figuras"],
+      "images": [
+        "/imgs/placeholder.png",
+        "/imgs/placeholder.png",
+        "/imgs/placeholder.png"
+      ]
+    },
+    {
+      "id": "sacred-heart",
+      "name": "Sagrado Corazón",
+      "width": 18,
+      "height": 24,
+      "depth": 2,
+      "price": 39.99,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada consequat enim vitae aliquet. Aenean molestie felis non sapien volutpat, in elementum est rhoncus.",
+      "tags": ["corazones", "decoración de pared"],
+      "images": [
+        "/imgs/placeholder.png",
+        "/imgs/placeholder.png",
+        "/imgs/placeholder.png"
+      ]
+    }
+  ]
+}
