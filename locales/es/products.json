@@ -31,9 +31,9 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada consequat enim vitae aliquet. Aenean molestie felis non sapien volutpat, in elementum est rhoncus.",
       "tags": ["peces", "decoración de pared"],
       "images": [
-        "imgs/placeholder.png",
-        "imgs/placeholder.png",
-        "imgs/placeholder.png"
+        "placeholder.png",
+        "placeholder.png",
+        "placeholder.png"
       ]
     },
     {
@@ -46,9 +46,9 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada consequat enim vitae aliquet. Aenean molestie felis non sapien volutpat, in elementum est rhoncus.",
       "tags": ["cruces", "decoración de pared"],
       "images": [
-        "imgs/placeholder.png",
-        "imgs/placeholder.png",
-        "imgs/placeholder.png"
+        "placeholder.png",
+        "placeholder.png",
+        "placeholder.png"
       ]
     },
     {
@@ -61,9 +61,9 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada consequat enim vitae aliquet. Aenean molestie felis non sapien volutpat, in elementum est rhoncus.",
       "tags": ["belenes", "figuras"],
       "images": [
-        "imgs/placeholder.png",
-        "imgs/placeholder.png",
-        "imgs/placeholder.png"
+        "placeholder.png",
+        "placeholder.png",
+        "placeholder.png"
       ]
     },
     {
@@ -76,9 +76,9 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada consequat enim vitae aliquet. Aenean molestie felis non sapien volutpat, in elementum est rhoncus.",
       "tags": ["corazones", "decoración de pared"],
       "images": [
-        "imgs/placeholder.png",
-        "imgs/placeholder.png",
-        "imgs/placeholder.png"
+        "placeholder.png",
+        "placeholder.png",
+        "placeholder.png"
       ]
     }
   ]
